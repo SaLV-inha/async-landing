@@ -32,7 +32,6 @@ async function fetchdata(urlapi){
             <span aria-hidden="true" class="absolute inset-0"></span>  
                 ${video.snippet.title}
             </h3>  
-            <a href="http://" target="_blank" rel="noopener noreferrer"></a>
             </div>  
         </div>`
 
