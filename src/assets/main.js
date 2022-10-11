@@ -25,6 +25,7 @@ async function fetchdata(urlapi){
         <div class="group relative">
         <div   
           class="w-full bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:aspect-none">
+          <a href="https://github.com/SaLV-inha/async-landing/settings/pages" target="_blank" rel="noreferrer"> ver</a>
           <img src="${video.snippet.thumbnails.medium.url}" alt="${video.snippet.description}" class="w-full">
         </div>  
         <div class="mt-4 flex justify-between">
